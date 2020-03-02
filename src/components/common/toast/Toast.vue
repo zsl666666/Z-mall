@@ -40,12 +40,13 @@ export default {
 .toast{
     
     position: fixed;
-    padding: 8px 10px;
+    padding: 10px 15px;
     transform: translate(-50%,-50%);
     left: 50%;
     top: 50%;
     color: #fff;
     background-color:rgba(0,0,0,.7);
+    border-radius: 20px;
     z-index: 9999;
 }
 </style>
